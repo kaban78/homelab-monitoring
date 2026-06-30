@@ -24,3 +24,4 @@ backup/
 router_page.png
 *.log
 /tmp/
+venv/

@@ -28,6 +28,13 @@
 - Pi-hole, Unbound, WireGuard
 - VLAN, L3-маршрутизация
 
+## 📖 Документация
+
+- [Схема сети](docs/network.md)
+- [Настройка роутерного бота](docs/setup-router-bot.md)
+- [Типичные проблемы и решения](docs/troubleshooting/common-issues.md)
+- [Настройка VLAN и маршрутизации](docs/setup.md) (скоро)
+
 ## 🚀 Быстрый старт
 
 1. Клонируй репозиторий:
