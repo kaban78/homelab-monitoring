@@ -18,3 +18,9 @@ backup/
 
 # Файлы истории устройств
 router_devices_history.json
+
+backup/
+*.tar.gz
+router_page.png
+*.log
+/tmp/
