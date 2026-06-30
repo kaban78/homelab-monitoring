@@ -1,0 +1,20 @@
+# Секретные данные
+.env
+*.pem
+*.key
+*.crt
+
+# Логи и временные файлы
+*.log
+*.pyc
+__pycache__/
+router_page.png
+*.zip
+/tmp/
+
+# Папки с бэкапами
+backup/
+*.tar.gz
+
+# Файлы истории устройств
+router_devices_history.json
